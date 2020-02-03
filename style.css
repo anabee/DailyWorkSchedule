@@ -33,3 +33,7 @@ button:hover {
     background-color: #4682B4; 
     color: white;
   }
+
+  i:hover {
+      color: white;
+  }
