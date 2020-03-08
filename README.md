@@ -8,3 +8,6 @@ In order to do the color switch on my project I made made an array of all my tim
 
 For the local storage, I made setItems for every single element. I then would get the same element for every input by id name 
 
+<img width="1179" alt="Screen Shot 2020-03-07 at 9 58 36 PM" src="https://user-images.githubusercontent.com/42880531/76157540-f6452200-60be-11ea-8f9b-ab3251be9dad.png">
+
+https://anabee.github.io/DailyWorkSchedule/
